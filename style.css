@@ -38,9 +38,9 @@ p {
     color: #FFFFFF;   
 }
 
-strong1{  color: #ee58ee; font-size: 115%;  }
+.strong1{  color: #ee58ee; font-size: 115%;  }
 
-strong2{  color: #05d5f0; font-size: 115%; }
+.strong2{  color: #05d5f0; font-size: 115%; }
 
 button {
     transform: scale(1.3);
