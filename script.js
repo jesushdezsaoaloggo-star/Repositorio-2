@@ -1,3 +1,15 @@
 function boton1() {
-    alert("Ti IP: 192.169.1.128. Vives en Cuba, Holguín, vas a la Universidad Oscar Lucero Moya. No te asustes si te llegan a robar. AJAJAJSJSJSAJJASJSJDJAJ");
+    alert("");
+}
+
+function boton2() {
+    alert("");
+}
+
+function boton3() {
+    alert("");
+}
+
+function boton4() {
+    alert("");
 }
