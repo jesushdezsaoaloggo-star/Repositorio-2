@@ -55,6 +55,7 @@ button:hover {
 
 footer {
     margin-top: 150px;
+    background-repeat: no-repeat;
     background-image: url(footer.png);
     padding: 15px;
 }
