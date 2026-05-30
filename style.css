@@ -24,7 +24,12 @@ header{
 }
 
 
-h1, h2 {
+h1{
+    margin-top: 40px;
+    color: #FFFFFF;
+}
+
+h2 {
     margin-top: 80px;
     color: #FFFFFF;
 }
@@ -35,6 +40,7 @@ h3{
 }
 
 p {
+    margin-top: 20px;
     color: #FFFFFF;   
 }
 
@@ -68,9 +74,16 @@ button:hover {
     box-shadow: 0px 0px 10px 15px #5f5f5f65;
 }  
 
+
+.pfin {
+    margin: 0px;
+}
+
 footer {
+    text-align: center;
     margin-top: 150px;
     background-repeat: no-repeat;
     background-image: url(footer.png);
-    padding: 15px;
+    padding: 30px;
 }
+

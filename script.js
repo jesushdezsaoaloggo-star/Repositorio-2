@@ -1,15 +1,15 @@
 function boton1() {
-    alert("");
+    alert("No");
 }
 
 function boton2() {
-    alert("");
+    alert("Tonto");
 }
 
 function boton3() {
-    alert("");
+    alert("Era obio amsndbmansbdmas");
 }
 
 function boton4() {
-    alert("");
+    alert("AHHHHHH NOOOOOO COMO LO SUPIESTE");
 }
